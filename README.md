@@ -2,6 +2,7 @@ This is my SQL project
 CREATE DATABASE SQL PROJECTS;
 
 # Pizza-Order-Management #
+https://github.com/Tanya030598/Pizza-Order-Managemant/tree/main?tab=readme-ov-file
 -- PURPOSE --
 -- DESCRIPTION --
 -- TECHNICAL SKILLS --
