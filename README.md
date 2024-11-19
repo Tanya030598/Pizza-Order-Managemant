@@ -1,4 +1,5 @@
 This is my SQL project
+
 CREATE DATABASE SQL PROJECTS;
 
 # Pizza-Order-Management #
