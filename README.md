@@ -2,7 +2,6 @@ This is my SQL project
 
 # Pizza-Order-Management #
 
-CREATE DATABASE SQL PROJECTS;
 
 -- PURPOSE --
 Purpose of this sql project is to manage and manipulate data
