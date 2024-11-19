@@ -13,3 +13,6 @@ In this we will use joins and aggregate functions.
 
 -- RESULT --
 after querying the data we will get the result.
+
+-- Link --
+pizza_order_management.sql
