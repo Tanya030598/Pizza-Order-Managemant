@@ -15,4 +15,5 @@ In this we will use joins and aggregate functions.
 after querying the data we will get the result.
 
 -- Link --
-pizza_order_management.sql
+
+https://github.com/Tanya030598/Pizza-Order-Managemant/blob/main/pizza_order_management.sql
