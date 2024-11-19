@@ -1,13 +1,9 @@
-This is my SQL project
+Project Title: **Pizza-Order-Management**
 
-# Pizza-Order-Management #
-
+Description: A simple and easy-to-use system that helps customers order, customize, and track their pizzas.
 
 -- PURPOSE --
 Purpose of this sql project is to manage and manipulate data
-
--- DESCRIPTION --
-in this tables we will insert sample data and use it for analyzing,calculating and normalization
 
 -- TECHNICAL SKILLS -- 
 In this we will use joins and aggregate functions.
