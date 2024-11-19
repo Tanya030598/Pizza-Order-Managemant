@@ -1,7 +1,5 @@
 This is my SQL project
 CREATE DATABASE SQL PROJECTS;
-mysql -u Tanya030598 -p pizza_order_management < schema.sql
-mysql -u Tanya030598 -p pizza_order_management < data.sql
 
 # Pizza-Order-Management #
 -- PURPOSE --
