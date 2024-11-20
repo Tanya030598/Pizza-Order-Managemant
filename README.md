@@ -1,11 +1,11 @@
 PROJECT TITLE: **Pizza-Order-Management**
 
-DESCRIPTION: A simple and easy-to-use system that helps customers order, customize, and track their pizzas.
+DESCRIPTION: A system for handling pizza orders, allowing customers to add items to their cart, and track orders.
 
-PURPOSE: Purpose of this sql project is to manage and manipulate data
+PURPOSE: Purpose of this sql project is to streamline pizza ordering, manage and manipulate data.
 
-TECHNICAL SKILLS: In this we will use joins and aggregate functions.
+TECHNICAL SKILLS: In this project we had use joins and aggregate functions.
 
-RESULT: After querying the data we will get the result.
+RESULT: A fully functional pizza order management system that efficiently handles order browsing, cart management, order tracking and analyze the revenue and expenses.
 
 LINK: https://github.com/Tanya030598/Pizza-Order-Managemant/blob/main/pizza_order_management.sql
