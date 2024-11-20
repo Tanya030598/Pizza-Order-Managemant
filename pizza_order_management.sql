@@ -1,5 +1,8 @@
 -- schema.sql --
 
+create database pizza_order;
+use pizza_order;
+
 -- create the 'customers' table --
 create table customers(
     customer_id int primary key auto_increment,
