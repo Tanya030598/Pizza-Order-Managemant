@@ -41,10 +41,10 @@ create table order_items (
     foreign key (pizza_id) references pizzas(pizza_id)
 );
 
--- Add sample data --
+-- Add data --
 -- data.sql --
 
--- Insert sample data in customers table --
+-- Insert data in customers table --
 insert into customers (first_name, last_name, email, phone)
 values
 ('John', 'Doe', 'johndoe@example.com', '123-456-7890'),
@@ -67,7 +67,7 @@ values
 ('Peter', 'Carter', 'petercarter@example.com', '890-123-4568'),
 ('Quincy', 'Morris', 'quincymorris@example.com', '901-234-5679');
 
--- Insert sample data in pizzas table --
+-- Insert data in pizzas table --
 (5 pizzas, 4 different sizes each, totaling 20)
 
 insert into pizzas (name, size, price) 
@@ -93,7 +93,7 @@ values
 ('Hawaiian', 'Large', 13.49),
 ('Hawaiian', 'X-Large', 15.49);
 
--- Insert sample data in orders table --
+-- Insert data in orders table --
 insert into orders (customer_id, order_date, status, total_amount)
 VALUES
 (1, '2024-11-01', 'Pending', 35.97),
@@ -117,7 +117,7 @@ VALUES
 (19, '2024-11-19', 'Completed', 38.97),
 (20, '2024-11-20', 'Pending', 53.97);
 
--- Insert sample data in order_items
+-- Insert data in order_items
 insert into order_items (order_id, pizza_id, quantity, price)
 values
 (1, 1, 3, 7.99),
