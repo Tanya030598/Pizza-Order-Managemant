@@ -4,7 +4,9 @@ DESCRIPTION: A system for handling pizza orders, allowing customers to add items
 
 PURPOSE: Purpose of this sql project is to streamline pizza ordering, manage and manipulate data.
 
-TECHNICAL SKILLS: In this project we have used joins and aggregate functions.
+TECHNICAL SKILLS: Creating and managing database schemas and tables
+                  Writing complex queries (JOINS etc.)
+                  Performing CRUD operations (Create, Read, Update, Delete)
 
 RESULT: A fully functional pizza order management system that efficiently handles order browsing, order tracking and analyze the revenue and expenses.
 
