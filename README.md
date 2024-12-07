@@ -10,4 +10,4 @@ TECHNICAL SKILLS: Creating and managing database schemas and tables
 
 RESULT: A fully functional pizza order management system that efficiently handles order browsing, order tracking and analyze the revenue and expenses.
 
-LINK: https://github.com/Tanya030598/Pizza-Order-Management
+LINK: https://github.com/Tanya030598/Pizza-Order-Management/blob/main/pizza_order_management.sql
