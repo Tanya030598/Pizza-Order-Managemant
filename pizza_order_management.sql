@@ -172,10 +172,11 @@ JOIN order_items oi ON oi.pizza_id = p.pizza_id
 GROUP BY p.size;
  
 /*Get the total number of orders placed on each date*/
-SELECT order_date, COUNT(*) AS total_orders
-FROM orders
-GROUP BY order_date
-ORDER BY order_date;
+SELECT o.order_date, sum(oi.quantity) AS total_orders
+FROM orders o
+Join order_items oi on oi.order_id=o.order_id
+GROUP BY o.order_date
+ORDER BY o.order_date;
 
 /*Get the total spent by each customer*/
 SELECT c.first_name, c.last_name, SUM(o.total_amount) AS total_spent
